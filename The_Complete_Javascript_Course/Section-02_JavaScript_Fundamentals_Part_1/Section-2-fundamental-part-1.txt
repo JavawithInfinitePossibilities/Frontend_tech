@@ -1,0 +1,6 @@
+1.  Section Intro
+2.  Hello World!
+3.  A Brief Introduction to JavaScript
+4.  Linking a JavaScript File
+5.  Values and Variables
+

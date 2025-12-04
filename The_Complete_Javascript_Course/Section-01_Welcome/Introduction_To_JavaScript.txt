@@ -1,0 +1,6 @@
+This will be the introduction of instructor and the course structure.
+1.  Course Structure and Projects.
+2.  Read Before You Start!
+3.  Watch Before You Start!
+4.  Setting Up Our Code Editor
+
