@@ -1,0 +1,13 @@
+This will be the introduction of instructor and the course structure.
+    1.  Course Structure and Projects.
+    2.  Read Before You Start!
+    3.  Watch Before You Start!
+    4.  Setting Up Our Code Editor
+Section-02_JavaScript_Fundamentals_Part_1
+    1.  Section Intro
+    2.  Hello World!
+    3.  A Brief Introduction to JavaScript
+    4.  Linking a JavaScript File
+    5.  Values and Variables
+
+
